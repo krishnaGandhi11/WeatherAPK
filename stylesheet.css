@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    color: #535C68;
+}
+.containerAbout{
+    margin-top: 2%;
+    color: #282d33;
+}
